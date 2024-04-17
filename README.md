@@ -1,4 +1,4 @@
-FIFA World Rankings Scraper
+## FIFA World Rankings Scraper
 
 This script allows you to scrape FIFA World Rankings data from the Transfermarkt website. You can choose to scrape a specific number of dates and either print the data to standard output or save it to a CSV file.
 
